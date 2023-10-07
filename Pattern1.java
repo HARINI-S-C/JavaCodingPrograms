@@ -1,5 +1,13 @@
+/*The output will be similar to this
+	4
+	****
+	****
+	****
+	****
+*/
+
 import java.util.*;
-public class Main
+public class Pattern1
 {
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
