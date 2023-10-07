@@ -12,7 +12,7 @@ The Output:
 import java.util.*;
 import java.lang.*;
 import java.math.BigInteger;
-public class Main
+public class SumOfBigInteger
 {
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
